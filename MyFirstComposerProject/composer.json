@@ -1,0 +1,13 @@
+{
+    "name": "admin/my-first-composer-project",
+    "authors": [
+        {
+            "name": "yingjhen",
+            "email": "s3a632059@student.ncut.edu.tw"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.25",
+        "nesbot/carbon":"^1.21"
+    }
+}

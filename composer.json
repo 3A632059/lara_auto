@@ -6,7 +6,10 @@
             "email": "s3a632059@student.ncut.edu.tw"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^1.25",
+        "nesbot/carbon":"^1.21"
+    },
     "autoload": {
         "psr-4": {
             "Demo\\": "./src/Demo"
